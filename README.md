@@ -1,2 +1,2 @@
 # autoML-workshop
-Material for the AutoML workshop
+Materials for the AutoML workshop
